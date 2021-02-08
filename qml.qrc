@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>HomeScreen.qml</file>
+        <file>HS_Student.qml</file>
+        <file>HS_Parent.qml</file>
+        <file>Event.qml</file>
+        <file>LoginData.js</file>
+        <file>AssignHomework.qml</file>
+        <file>HomeworkDetails.qml</file>
+        <file>HomeworkCompleted.qml</file>
+    </qresource>
+</RCC>
